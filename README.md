@@ -2,11 +2,6 @@
 ## Seja Bem-vindo(a) :vulcan_salute:!
   Graduada em Ciência da Computação pela Universidade Federal do Ceará, atualmente sou integrante do programa de pós-graduação de mestrado e doutorado em ciência da computação pela mesma instituição. Possuo experiência com aprendizado de máquina, deep learning, visão computacional e ciência de dados. Aqui você terá acesso ao meu portifólio.
   
-  <div align="center">
-  <a href = "leticiatp2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"     target="_blank"></a>
-<a href="https://www.linkedin.com/in/leticia-torres-7575b2212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-  
   - :woman_student: Atualmente, estudante na Universidade Federal do Ceará.
   - :speech_balloon: Pergunte-me sobre qualquer coisa.
   - :mailbox: Entre em contato: leticiatp2@gmail.com
