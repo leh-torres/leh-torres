@@ -1,6 +1,6 @@
 # Leticia Torres
 ## Seja Bem-vindo(a) :vulcan_salute:!
-  Sou uma estudante de Ciências da Computação que adora aprender coisas novas. Aqui você terá acesso ao meu portifólio.
+  Graduada em Ciência da Computação pela Universidade Federal do Ceará, atualmente sou integrante do programa de pós-graduação de mestrado e doutorado em ciência da computação pela mesma instituição. Possuo experiência com aprendizado de máquina, deep learning, visão computacional e ciência de dados. Aqui você terá acesso ao meu portifólio.
   
   <div align="center">
   <a href = "leticiatp2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"     target="_blank"></a>
